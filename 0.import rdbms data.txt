@@ -1,0 +1,4 @@
+
+import through sqoop 
+
+sqoop import --connect jdbc:mysql://localhost/training --table trucks -m 1 --hive-import --driver com.mysql.jdbc.Driver --username root --password cloudera --hive-table default.trucks_stage
