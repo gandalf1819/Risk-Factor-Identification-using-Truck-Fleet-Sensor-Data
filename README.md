@@ -1,6 +1,6 @@
 # Risk-Factor-Identification-using-Truck-Fleet-Sensor-Data
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 - This usecase is to analyse various parameter of a truck fleet.
 - Each truck has been equipped to log location and event data.
