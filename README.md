@@ -8,8 +8,6 @@
 be processing the data.
 - The company wants to use this data to better understand risk.
 
-# Goal of the Project
-* To get familiar with end to end implantation of a big data project using various tools in Hadoop ecosystem.
 
 # Data
 * Collected geo-location and truck data has been provided.
